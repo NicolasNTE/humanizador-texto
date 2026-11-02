@@ -1,0 +1,10 @@
+# Documentos y preferencias personales: no forman parte de la skill.
+*.docx
+*.pdf
+*.skill
+VOZ_ACADEMICA.md
+.env
+.env.*
+__pycache__/
+.DS_Store
+Thumbs.db

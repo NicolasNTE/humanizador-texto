@@ -1,0 +1,4 @@
+interface:
+  display_name: "Humanizador académico"
+  short_description: "Voz académica natural que conserva el contenido"
+  default_prompt: "Usa $humanizador-academico para dar una voz natural y consistente a este informe, conservando sus datos, citas y significado."
